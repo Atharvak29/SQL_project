@@ -7,7 +7,7 @@ This repository serves as an overview showcasing all the SQL projects.
 
 ## Table of Contents
 
-- [Murder Mystery](https://github.com/Atharvak29/Data_Analysis_py/tree/main/Diwali%20Sales%20Analysis)
-- [Music Store Analysis](https://github.com/Atharvak29/Data_Analysis_py/tree/main/House%20Price%20Prediction)
-- [Vet dataset](https://github.com/Atharvak29/Data_Analysis_py/tree/main/House%20Price%20Prediction)
+- [Murder Mystery](https://github.com/Atharvak29/SQL_project/tree/main/Murder%20Mystery)
+- [Music Store Analysis](https://github.com/Atharvak29/SQL_project/tree/main/Music%20Store)
+- [Vet dataset](https://github.com/Atharvak29/SQL_project/tree/main/Vet%20dataset)
 
