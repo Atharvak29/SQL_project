@@ -11,7 +11,7 @@ In this SQL project, we solved a fictional murder case using a series of SQL que
 
 Before we dive into the SQL queries, let's take a look at the schema of our database.
 
-![schema_diagram]("https://github.com/Atharvak29/SQL_project/assets/70752461/1819d5b2-fd9a-4dcc-9870-dd1ce0a94e02")
+<img width="594" alt="schema_diagram" src="https://github.com/Atharvak29/SQL_project/assets/70752461/1819d5b2-fd9a-4dcc-9870-dd1ce0a94e02">
 
 ### SQL Queries Used in the Investigation
 
