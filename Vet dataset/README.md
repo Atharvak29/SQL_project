@@ -34,6 +34,7 @@ FROM pets p
 JOIN procedureshistory ph ON p.petid = ph.petid
 GROUP BY p.kind, ph.proceduretype
 ORDER BY count_procedures DESC;
+```
 
 ### 6. Average Costs by Geographic Region
 Determine regional cost variations by grouping data by city or state.
@@ -44,5 +45,5 @@ Explore pet records to identify those who have never been linked to a procedure 
 ### 8. Owners Spending Analysis
 Examine which owners tend to spend the most on pet healthcare and its relation to pet age or type.
 
-##Conclusion
+## Conclusion
 This project highlights how SQL can be utilized to analyze and understand better the operational data from a veterinary clinic. Through various queries, we have uncovered patterns that can help optimize the services and operations of the clinic.
